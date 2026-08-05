@@ -1,6 +1,9 @@
 Course Code: CSE 460 | Course Title: Deep Learning Lab
+
 Submitted by: Tonmoy Talukder (ID: 0562210005101019)
+
 Supervised by: Razorshi Prozzwal Talukder, Lecturer
+
 Institution: Department of Computer Science and Engineering, North East University Bangladesh
 
 🎥 Project Video (Google Drive): https://drive.google.com/file/d/17rygV073_wrouIkAuMBenRzuTzImiwvW/view?usp=sharing
