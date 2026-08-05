@@ -1,9 +1,0 @@
-streamlit
-tensorflow
-keras
-numpy
-pandas
-matplotlib
-scikit-learn
-yfinance
-plotly
