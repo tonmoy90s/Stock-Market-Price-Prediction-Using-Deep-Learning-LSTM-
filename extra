@@ -1,0 +1,3 @@
+streamlit run web_stock_price_predictor.py
+
+py -3.11 -m pip install tensorflow keras yfinance pandas numpy matplotlib scikit-learn streamlit notebook jupyter jupyter_server ipykernel traitlets
