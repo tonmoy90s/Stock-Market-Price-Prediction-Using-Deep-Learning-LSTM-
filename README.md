@@ -4,9 +4,13 @@ Supervised by: Razorshi Prozzwal Talukder, Lecturer
 Institution: Department of Computer Science and Engineering, North East University Bangladesh
 
 🎥 Project Video (Google Drive): https://drive.google.com/file/d/17rygV073_wrouIkAuMBenRzuTzImiwvW/view?usp=sharing
+
 🌐 Live Web Application: https://p4soguy4t8tog6ibnqqply.streamlit.app/
+
 📊 Project Dataset : Download from yfinance
+
 📄 Final Project Report (Google Drive): https://drive.google.com/file/d/1X9xNFzZhhQk1GZe65OfVy9cQBgBaMlGP/view?usp=sharing
+
 📄 Project Proposal (Google Drive): https://docs.google.com/document/d/1-7os9NKAC2Y2dU-dx8ng4qfM77SgLFerH2ynE5HUr5c/edit?usp=sharing
 
 
